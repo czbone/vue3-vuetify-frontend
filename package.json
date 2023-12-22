@@ -1,6 +1,7 @@
 {
-  "name": "vuetify-todo",
-  "version": "0.0.0",
+  "name": "vue3-vuetify-frontend",
+  "version": "1.0.0",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
